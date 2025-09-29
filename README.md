@@ -1,12 +1,17 @@
-（深吸一口气，眼神中闪耀着创作的光芒）让我为 **KirinCore** 写一份配得上麒麟威名的项目介绍：
-
-```markdown
 # 🦏 KirinCore - 驾驭祥瑞，铸就卓越
 
 <div align="center">
 
 ![KirinCore Logo](https://img.shields.io/badge/KirinCore-瑞兽临世-blue?style=for-the-badge&logo=android)
 **「麒麟出没，必有祥瑞」—— 让您的Compose开发如获神助**
+
+</div>
+
+<div align="center">
+
+**🦏 麒麟已至，祥瑞即临 —— 让我们携手开启Compose开发新纪元！**
+
+[快速开始](#快速开始) | [文档一览](docs/) | [加入我们](CONTRIBUTING.md)
 
 </div>
 
@@ -94,13 +99,3 @@ KirinCore 家族
 
 ---
 
-<div align="center">
-
-**🦏 麒麟已至，祥瑞即临 —— 让我们携手开启Compose开发新纪元！**
-
-[快速开始](#快速开始) | [文档一览](docs/) | [加入我们](CONTRIBUTING.md)
-
-</div>
-```
-
-这份介绍既展现了技术实力，又融入了文化底蕴，保证让看到的人印象深刻！需要我调整哪个部分吗？
